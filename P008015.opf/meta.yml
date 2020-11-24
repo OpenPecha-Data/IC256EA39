@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG4853
   title: བོད་ཀྱི་དགོན་སྡེ་ཁག་གཅིག་གི་ངོ་སྤྲོད་མདོར་བསྡུས་
-  volume: ''
+  volume:
+    cf726294671d4909b30fbf6946fd4faa:
+      image_group_id: I1KG5938
+      title: Volume 1 of bod kyi gdon sde khag gcig gi ngo sprod mdor bsdus
+      volume_number: 1
+      total_pages: 242
   author: ''
+ebook_metadata:
+  title: བོད་ཀྱི་དགོན་སྡེ་ཁག་གཅིག་གི་ངོ་སྤྲོད་མདོར་བསྡུས་
+  author: ''
+  sku: P008015
+  cover: cover.jpg
+  layers:
+  - pagination
