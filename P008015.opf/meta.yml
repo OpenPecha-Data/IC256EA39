@@ -5,11 +5,12 @@ source_metadata:
   title: བོད་ཀྱི་དགོན་སྡེ་ཁག་གཅིག་གི་ངོ་སྤྲོད་མདོར་བསྡུས་
   author: ''
   volumes:
-    cc1c09f7aef4470c94e512d3df198717:
+    cf726294671d4909b30fbf6946fd4faa:
       image_group_id: I1KG5938
-      title: ''
+      title: Volume 1 of bod kyi gdon sde khag gcig gi ngo sprod mdor bsdus
       volume_number: 1
       total_pages: 242
+      base_file: v001.txt
 ebook_metadata:
   title: བོད་ཀྱི་དགོན་སྡེ་ཁག་གཅིག་གི་ངོ་སྤྲོད་མདོར་བསྡུས་
   author: ''
